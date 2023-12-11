@@ -10,3 +10,4 @@ Data Mining course project
 
 ## Codes
 - lstm.py --> Long short-term memory model
+- cross_correlation.py --> Create the cross correlation matrices for the stations
