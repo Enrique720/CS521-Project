@@ -1,0 +1,10 @@
+*
+
+
+!.gitignore
+!data/
+!data/**/*
+!lstm.py
+!future.py
+!cross_correlation.py
+
